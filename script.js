@@ -101,7 +101,7 @@ function updateProfile(data) {
 
 
 
-/// dshkjlj
+
 // Dark And Light Mode 
 const modeBtn = get("modeBtn");
 const modeText = get("modeText");
